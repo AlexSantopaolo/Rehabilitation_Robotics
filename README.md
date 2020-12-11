@@ -6,7 +6,7 @@ Developed by: A. Santopaolo, D. Piccoli (2020).
 Supervisor: prof. Fanny Ficuciello, PhD Claudia Pecorella.
 
 
-<h2>Project description:</h2>
+<h2>Project description</h2>
 
 The research activity consists in the development of adaptive control algorithms for the automatic adjustment of the level of assistance to be provided to the patient in rehabilitation on the basis of the interpretation of movement intentions and the progress made in the recovery of motor functions. The platform of interest is Kuka MED Robot.
 
