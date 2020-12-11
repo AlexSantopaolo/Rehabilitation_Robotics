@@ -3,7 +3,7 @@
 
 Developed by: A. Santopaolo, D. Piccoli (2020).
 
-Supervisor: prof. Fanny Ficuciello, PhD Claudia Pecorella(University of Naples Federico II)
+Supervisor: prof. Fanny Ficuciello (University of Naples Federico II)
 
 
 <h2>Project description</h2>
