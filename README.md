@@ -12,7 +12,7 @@ The research activity consists in the development of adaptive control algorithms
 
 <h2>Implementation details</h2>
   
- Work in progress ... 
+ Work in progress ... A breafly explanation of the work in the ongoing report(Only in italian for the moment!)
 
 
 <h3> References </h3>
